@@ -1,2 +1,4 @@
-# Random_Projects
-Contains random project files and important details.
+# Project List
+_Click on the project title to directly go to the folder/directory._
+  1. Automatic irrigation system.  .
+     >Uses Arduino UNO, Soil Moisture sensor, Water-pump, Transistor, LED, resistor & other basic things like wires.  
