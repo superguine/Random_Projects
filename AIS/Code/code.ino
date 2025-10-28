@@ -29,5 +29,5 @@ void loop() {
     Serial.println("Pump OFF - Soil is wet");
   }
 
-  delay(500); // Wait 2 seconds before next reading
+  delay(1000); // Wait 1 second before next reading
 }
